@@ -11,7 +11,7 @@ header{
     border-bottom: double 5px rgb(213, 12, 213);
     /* margin: 20px;*/
     padding: 30px;
-    color: darkgray;
+        color: darkgray;
 }
 h1{ 
     font: size 30px; ;
@@ -19,4 +19,18 @@ h1{
 
 p{
     font-size: 20px;
+}
+
+
+
+
+
+
+
+
+
+
+
+.chamada-texto{
+margin-right: 10%;
 }
